@@ -343,7 +343,7 @@ LETTERS_ARABIC_V2 = {
     # Kurdish letter YEAH
     '\u06ce': ('\uE004', '\uE005', '\uE006', '\uE004'),
     # Kurdish letter Hamza same as arabic Teh without the point
-    '\u06d5': ('\u06d5', '', '', '\uE000'),
+    '\u06d5': ('\u06d5', '', '', '\uFEEA'),
     # ZWJ
     ZWJ: (ZWJ, ZWJ, ZWJ, ZWJ),
 }
@@ -505,7 +505,7 @@ LETTERS_KURDISH = {
     # Kurdish letter YEAH
     '\u06ce': ('\uE004', '\uE005', '\uE006', '\uE004'),
     # Kurdish letter Hamza same as arabic Teh without the point
-    '\u06d5': ('\u06d5', '', '', '\uE000'),
+    '\u06d5': ('\u06d5', '', '', '\uFEEA'),
     # ZWJ
     ZWJ: (ZWJ, ZWJ, ZWJ, ZWJ),
 }
